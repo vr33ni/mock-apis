@@ -1,0 +1,10 @@
+[
+  {
+    "appointmentId": "001",
+    "roomEmailAddress": "meetingroom123@xyz.com",
+    "organizerDisplayName": "John Doe",
+    "isCancellable": true,
+    "start": "2020-03-13T20:54:04.797Z",
+    "end": "2020-03-13T20:54:04.797Z"
+  }
+]
